@@ -1,0 +1,7 @@
+.*.swp
+vendor
+composer.lock
+package.lock
+node_modules
+web
+wp-content
