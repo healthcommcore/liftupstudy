@@ -1,6 +1,7 @@
 .*.swp
 vendor
 composer.lock
+wp-config.php
 package.lock
 node_modules
 web
