@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/liftup_theme"]
+	path = wp-content/themes/liftup_theme
+	url = https://github.com/healthcommcore/liftup_theme.git
